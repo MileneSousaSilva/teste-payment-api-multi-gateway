@@ -9,7 +9,6 @@ Sem banco de dados — apenas memória.
 
 - Node.js
 - Express
-- UUID
 - Thunder Client
 
 ## Instalação
